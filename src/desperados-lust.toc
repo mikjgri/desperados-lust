@@ -1,5 +1,5 @@
 ## Interface: 110002
-## Version: 1.1.0
+## Version: 1.2.0
 ## Title: Flåklypa Desperados Lust
 ## Notes: Plays the all famous Flåklypa Desperados lust sound
 ## Author: puffyDr

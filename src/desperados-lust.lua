@@ -9,7 +9,7 @@ local function OnEvent(self, event, unit, info)
 	if info.addedAuras then
 		for _, v in pairs(info.addedAuras) do
 			for _, value in ipairs(lustNames) do
-				if value == v.name then
+				if value == v.name and v.duration > 35 then then
 					PlaySoundFile("Interface\\AddOns\\Desperados-Lust\\flaklypa.mp3", "Master");
 				end
 			end
