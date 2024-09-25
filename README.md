@@ -1,1 +1,1 @@
-# desperados-lust
+https://legacy.curseforge.com/wow/addons/flaklypa-desperados-lust
